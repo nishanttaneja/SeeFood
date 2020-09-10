@@ -34,6 +34,7 @@
 		B4908762250AB44800DB561C /* Photos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Photos.png; sourceTree = "<group>"; };
 		B4908763250AB44800DB561C /* Hotdog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hotdog.png; sourceTree = "<group>"; };
 		B4908764250AB44900DB561C /* NotHotdog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NotHotdog.png; sourceTree = "<group>"; };
+		B4908769250AB46000DB561C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +51,7 @@
 		B490873E250AA9DB00DB561C = {
 			isa = PBXGroup;
 			children = (
+				B4908769250AB46000DB561C /* README.md */,
 				B4908760250AB43A00DB561C /* Screenshots */,
 				B4908749250AA9DB00DB561C /* SeeFood */,
 				B4908748250AA9DB00DB561C /* Products */,
