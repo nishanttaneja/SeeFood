@@ -4,7 +4,7 @@ A Native iOS Application which, with the help InceptionV3 MLModel, identifies if
 <br>This application is part of <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">iOS Application Bootcamp</a> course by Dr. Angela Yu, <a href="https://www.appbrewery.co">TheAppBrewery</a>.
 
 ## Screenshots
-<img src="Screenshots/Home.png" width="200"> <img src="Screenshots/Photos.png" width="200"> <img src="Screenshots/Hotdog.png" width="200" <img src="Screenshots/NotHotdog.png" width="200">
+<img src="Screenshots/Home.png" width="200"> <img src="Screenshots/Photos.png" width="200"> <img src="Screenshots/Hotdog.png" width="200"> <img src="Screenshots/NotHotdog.png" width="200">
 
 ## Technologies
 - <a href="http://developer.apple.com/documentation/swift"> Swift Programming Language </a>
