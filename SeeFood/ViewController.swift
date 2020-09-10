@@ -9,12 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
-
-
+    //MARK:- IBOutlet|IBAction
+    @IBOutlet weak var imageView: UIImageView!
+    @IBAction func cameraButtonPressed(_ sender: UIBarButtonItem) {}
 }
 

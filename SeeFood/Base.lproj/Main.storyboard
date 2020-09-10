@@ -32,8 +32,15 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="jpc-Sd-cMf">
-                        <barButtonItem key="rightBarButtonItem" title="Item" image="camera" catalog="system" id="q8W-Gp-O8e"/>
+                        <barButtonItem key="rightBarButtonItem" title="Item" image="camera" catalog="system" id="q8W-Gp-O8e">
+                            <connections>
+                                <action selector="cameraButtonPressed:" destination="BYZ-38-t0r" id="vbs-Xm-sxv"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="imageView" destination="Y24-hZ-w1N" id="jIh-rb-ecx"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
